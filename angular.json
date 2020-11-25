@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "tourHero"
+  "defaultProject": "tourHero",
+  "cli": {
+    "analytics": "e197431d-130c-44f7-a426-39fb7925550d"
+  }
 }
